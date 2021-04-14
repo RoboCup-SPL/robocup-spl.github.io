@@ -8,7 +8,7 @@ title: NAO
 - SBR – Documentation ([Link](http://doc.aldebaran.com/2-8/news/index.html))
 - SBR – NAOqi 2.8.5 image for SPL teams (Please mail the [TC](mailto:rc-spl-tc@lists.robocup.org) for a link)
 - SBR – Lola RoboCup Documentation (Please mail the [TC](mailto:rc-spl-tc@lists.robocup.org) for a copy)
-- HTWK – LolaConnector ([Link](https://github.com/NaoHTWK/LolaConnector)
+- HTWK – LolaConnector ([Link](https://github.com/NaoHTWK/LolaConnector))
 - B-Human – Hints ([Link](https://spl.robocup.org/wp-content/uploads/downloads/nao-v6-hints.pdf))
 - RoDEO – V6 Meeting Summary 3/3/2019 ([Link](https://spl.robocup.org/wp-content/uploads/downloads/2019-03-03_v6-meeting.pdf))
 - Nao Devils – OpenCL Integration ([Link](https://spl.robocup.org/wp-content/uploads/downloads/OpenCL-V6.html.pdf))
